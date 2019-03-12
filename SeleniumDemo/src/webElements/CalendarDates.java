@@ -1,4 +1,4 @@
-package WebElements;
+package webElements;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;

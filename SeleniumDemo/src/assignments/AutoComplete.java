@@ -1,4 +1,4 @@
-package Assignments;
+package assignments;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;

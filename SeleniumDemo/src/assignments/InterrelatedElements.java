@@ -1,4 +1,4 @@
-package Assignments;
+package assignments;
 
 import java.util.ArrayList;
 import java.util.Iterator;
